@@ -1,0 +1,5 @@
+# CodecoolShop![homepage](https://user-images.githubusercontent.com/86601701/185105735-30e2480b-3082-4e61-9ad2-863c3a05a08d.jpg)
+![login](https://user-images.githubusercontent.com/86601701/185105772-e65eb23f-6a3c-4af7-bb6f-c274def28584.jpg)
+![register](https://user-images.githubusercontent.com/86601701/185105795-30fb56cf-358f-4170-a1f7-584bc116e6d3.jpg)
+![cart](https://user-images.githubusercontent.com/86601701/185105821-3431e300-6513-463b-9e05-eb7666b83318.jpg)
+![checkout](https://user-images.githubusercontent.com/86601701/185105837-d775f021-28ae-4bce-a570-1eba95f8d0b5.jpg)
