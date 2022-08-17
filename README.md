@@ -19,7 +19,8 @@ Website features:
 - Login and register functionality implemented through ASP.NET Core Identity
 - ASP.NET Core Entity Framework Database
 - Users can add products to cart and add/remove from the product quantity
-- Checkout page
+- Checkout page with validations
+- Payment page
 
 
 # CodecoolShop![homepage](https://user-images.githubusercontent.com/86601701/185105735-30e2480b-3082-4e61-9ad2-863c3a05a08d.jpg)
